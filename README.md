@@ -2,7 +2,8 @@
 
 ### HELLOWORLD!!! 🙏
 About Me? here ya go.
-* <b>🔭 Working:</b>PenTest Web Mobile Network Pentesting
+* <b>🥷I am KIRA
+* <b>🔭 Working:</b>Web Mobile Network Pentesting
 * <b>💻 Coding:</b> Python3, Bash and Batch
 * <b>💁‍♂️ Interesting:</b> Deep Learning
 * <b>👽 Blog:</b> https://kiralab.blogspot.com/

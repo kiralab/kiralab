@@ -2,10 +2,10 @@
 
 ### HELLOWORLD!!! 🙏
 About Me? here ya go.
-* <b>🔭 Working:</b> Research Web Mobile Network Pentesting
+* <b>🔭 Working:</b>PenTest Web Mobile Network Pentesting
 * <b>💻 Coding:</b> Python3, Bash and Batch
 * <b>💁‍♂️ Interesting:</b> Deep Learning
-* <b>👽 Blog:</b> https://404.com
+* <b>👽 Blog:</b> https://kiralab.blogspot.com/
 
 > 😹 Fun fact **Security is just like Magic.**
 
